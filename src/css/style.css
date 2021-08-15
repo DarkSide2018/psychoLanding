@@ -1,0 +1,72 @@
+.header-background{
+     background: linear-gradient(-45deg, transparent, mistyrose), url("../img/background-small.jpg");
+     position: absolute;
+       background-size: cover;
+     width: 100%;
+     height: 900px;
+     background-repeat: no-repeat;
+
+}
+.col-md-text-bold{
+    margin-top:60px;
+    padding-top:60px;
+    font-size: 30px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    letter-spacing: 3px;
+    font-weight: 600;
+}
+
+.col-md-text-normal-15{
+    margin: 15px;
+    font-size: 16px;
+    letter-spacing: 4px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+.col-md-text-normal-20{
+    font-size: 18px;
+
+    letter-spacing: 6px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+.navigation{
+    background: linear-gradient(to left, transparent, mistyrose);
+    background-color: #596370;
+    text-align: right;
+    border-bottom: 4px black solid;
+}
+.button-mod{
+padding-top:15px;
+
+}
+.second-container{
+    margin-top:30px;
+}
+.i-will-help{
+    font-size: 18px;
+    letter-spacing: 4px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    margin-left:30px;
+    color:#f7fcff;
+    margin-bottom:30px;
+    padding: 15px;
+}
+.i-will-help-image{
+    opacity:0.7;
+    background: linear-gradient(to left, transparent, mistyrose), url("../img/i-will-help.jpg");
+    position:absolute;
+    bottom:30%;
+    right:90px;
+    border: 2px solid black;
+    margin-left:30px;
+    margin-top:30px;
+            border-radius:150px;
+           background-size: cover;
+         width: 300px;
+         height: 300px;
+         background-repeat: no-repeat;
+}
+.second-container{
+    position:absolute;
+    right:0px;
+    bottom:0px;
+}
